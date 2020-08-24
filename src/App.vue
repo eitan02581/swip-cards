@@ -70,7 +70,7 @@ export default {
       setTimeout(() => (this.isVisible = false), 200);
       setTimeout(() => {
         this.index++;
-        this.isVisible = true;
+        this.isVisible = true; 
       }, 300);
     },
   },
